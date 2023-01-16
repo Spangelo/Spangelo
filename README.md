@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nicole
-- 👀 I’m interested in UI design, animation, and game programming.
-- 🌱 I’m currently learning UX design 
+- 👀 I’m interested in Human Resources (HR), data analystis, animation, a game programming.
+- 🌱 I’m currently learning data analytics 
 - 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me ... 
+- 📫 How to reach me...on LinkedIn
 
 <!---
 Spangelo/Spangelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
